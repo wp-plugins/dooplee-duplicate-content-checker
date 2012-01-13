@@ -1,0 +1,33 @@
+div.main_style {
+        position:absolute;
+        top:0;
+        padding-left:1%;
+        padding-right:1%;
+        margin-left:0;
+        margin-right:0;
+}
+/* we leave some place on the side using the margin-* properties */
+ #main {
+
+        padding-left:1em;
+        padding-right:1em;
+} 
+/* and then we put each list on its place */
+#searchdiv {
+        left:0;
+		float:right;
+		width: 60%;
+}
+#articlelist {
+         right:0; 
+		 width: 40%;
+		 float: left;
+}
+#report {
+	clear: both;
+	float:left;
+	left: 0;
+}
+#error_messages {
+	font: red;
+}
