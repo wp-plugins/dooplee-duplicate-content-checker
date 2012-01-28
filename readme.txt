@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: duplicate content, seo, google, google seo, content
 Requires at least: 3.0
 Tested up to: 3.2.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Fight content theft and check for scrapers using your content for SEO and harming your rank. This plugin includes a search in the admin area you use to check the web for scrapers.
 

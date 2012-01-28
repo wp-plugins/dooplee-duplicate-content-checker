@@ -56,7 +56,7 @@ if ( is_admin() ){
 	</p>
 	<div id="error_messages"> 
 		<?php
-			include(ABSPATH . 'wp-content/plugins/dooplee/contact.php');
+			include(ABSPATH . 'wp-content/plugins/dooplee-duplicate-content-checker/contact.php');
 			//print errors from form submission
 			if($_SERVER['REQUEST_METHOD'] == "POST") 
 			{
